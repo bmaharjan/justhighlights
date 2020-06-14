@@ -7,7 +7,7 @@ class HomePage extends Component {
             <div className="container">                
                 <h1>Home</h1>
                 <p>
-                    Just Highlights!!!
+                    Just Highlights!
 					Check out the News real quick. Don't miss a single thing happening all around.
                 </p>
             </div>

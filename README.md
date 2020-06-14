@@ -1,1 +1,0 @@
-# easy_sports_news

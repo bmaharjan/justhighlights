@@ -99,7 +99,7 @@ class ContactPage extends Component {
                                         </label>
                                     </div>
                                     <div className="form-group">
-                                        <button type="submit" disabled={isSubmitting}>
+                                        <button name="submit" type="submit" disabled={isSubmitting}>
                                             Submit
                                         </button>
                                     </div>
